@@ -27,3 +27,5 @@ For each pair of trees:
         3.	identify the sons of AX node with the sons of BX node (not necessarily all) so that the number of identical nodes is as large as possible  
 
 The last comparison – comparison of the roots – gives the number of leaves of the maximum agreement subtree. Subtracting it from the initial number of leaves in one tree gives the result.
+
+File test_input.txt contains example of input – 100 trees in Newick format.
